@@ -19,4 +19,4 @@ The robot uses a **trial-and-error strategy** similar to reinforcement learning:
 
 ---
 
-## Project Structure
+

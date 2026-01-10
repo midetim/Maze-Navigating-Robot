@@ -19,7 +19,15 @@ The robot uses a **trial-and-error strategy** similar to reinforcement learning:
 
 ---
 
-https://youtu.be/qHdcZRrK16A
+## Demonstration Video available below:
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=qHdcZRrK16A">
+    <img src="https://img.youtube.com/vi/qHdcZRrK16A/maxresdefault.jpg" 
+         alt="Maze Navigating Robot Demo"
+         width="900">
+  </a>
+</p>
 
 
 

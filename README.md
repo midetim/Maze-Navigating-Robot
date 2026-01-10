@@ -3,7 +3,9 @@
 ## Overview
 This project implements an **autonomous maze-navigating robot** using **HCS12 assembly language** with a **reinforcement-learning–inspired approach**. Rather than following a fixed path, the robot improves its navigation over time by learning from mistakes and updating its decisions when obstacles or dead ends are encountered.
 
-The goal is reliable maze traversal with successful return to the start once the correct path is learned.
+The goal is reliable maze traversal with successful return to the start once the correct path is learned.  
+A **demonstration video is provided below** showcasing the robot navigating the maze in real time.
+
 
 ---
 

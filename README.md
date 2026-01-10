@@ -21,7 +21,7 @@ The robot uses a **trial-and-error strategy** similar to reinforcement learning:
 
 
 
-https://github.com/user-attachments/assets/9ec55f08-7201-49ee-9dda-75a86e8c94c9
+
 
 
 
